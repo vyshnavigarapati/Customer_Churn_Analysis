@@ -19,6 +19,9 @@ This project performs end-to-end customer churn analysis using **SQL for data cl
 - Higher churn observed in **monthly contract customers**  
 - **Fiber optic users** show increased churn rate  
 - Churn varies across **age groups and tenure duration**
+  ## Dashboard Preview
+
+![Customer Churn Dashboard](Churn_analysis_dashboard_screenshot.png)
 
 ## Files Included
 - Power BI Dashboard PDF  
